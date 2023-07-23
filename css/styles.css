@@ -8,8 +8,8 @@ p {
     text-align: center;
 }
 
-.croissants-photo {
-    max-width: 50%;
+.picture-photo {
+    max-width: 100%;
     border-radius: 10px;
     display: block;
     margin: 30px auto;
